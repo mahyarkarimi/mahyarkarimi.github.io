@@ -1,0 +1,30 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+a:link,
+a:visited {
+  color: white;
+}
+
+strong {
+  color: white;
+}
+
+body {
+  font-family: "VT323", monospace;
+  color: white;
+  background: black;
+  font-size: 1.25em;
+}
+
+.main {
+  padding: 0.1em 0.1em 0.1em 1em;
+}
+
+.green {
+  color: #34fc47;
+}
